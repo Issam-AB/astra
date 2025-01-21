@@ -28,8 +28,8 @@ Make sure that you have installed
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Shreyas-29/astra-website.git
-   cd astra-website
+   git clone https://github.com/Issam-AB/astra.git
+   cd astra
    ```
 2. Install dependencies:
    ```bash
